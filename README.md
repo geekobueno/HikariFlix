@@ -7,5 +7,9 @@ Inspire by aniyomi and mihon , I am building an anime streaming app mimicking ne
 
 TODO:
 -Node js backend (in work) : https://github.com/geekobueno/TachiAnime-IOS-Frontend
--IOS frontend with swift (in work) : 
+
+
+-IOS frontend with swift (in work) :
+
+
 -android and desktop frontend (in the future) : https://github.com/geekobueno/TachiAnime-Backend
