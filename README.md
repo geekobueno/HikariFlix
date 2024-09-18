@@ -9,4 +9,6 @@ TODO:
 -Node js backend (in work) : https://github.com/geekobueno/TachiAnime-Backend
 
 
--Multi-device frontend with flutter(in work) : https://github.com/geekobueno/TachiAnime-Frontend
+-Mobile frontend with Expo js (in work) : https://github.com/geekobueno/TachiAnime-Mobile-Frontend
+
+-desktop frontend with electron js (to be done)
