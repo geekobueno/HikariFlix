@@ -1,0 +1,160 @@
+/* Resetting common styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #1a1a1a;
+  color: white;
+  line-height: 1.6;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+header.hero {
+  background-image: url('image.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+  position: relative; /* Added to position the overlay */
+}
+
+header.hero::after {
+  content: '';
+  position: absolute; /* Positioning the overlay */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(211, 211, 211, 0.5); /* Light gray filter */
+  z-index: 1; /* Ensure the overlay is above the background */
+}
+
+.hero-content {
+  max-width: 800px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.cta-btn {
+  background-color: #ff6b6b;
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-size: 1.2rem;
+  transition: background-color 0.3s;
+}
+
+.cta-btn:hover {
+  background-color: #ff4747;
+}
+
+.features {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #252525;
+}
+
+.features-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.feature {
+  width: 250px;
+  padding: 20px;
+  background-color: #333;
+  border-radius: 10px;
+}
+
+.about-creator {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.creator-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.creator-photo {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.creator-text {
+  max-width: 500px;
+}
+
+.creator-text p {
+  margin-bottom: 15px;
+}
+
+.social-links {
+  list-style-type: none;
+  padding: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-links a {
+  color: #ff6b6b;
+  font-weight: bold;
+}
+
+footer {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #333;
+}
+
+.footer-links {
+  list-style-type: none;
+  padding: 20px 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.footer-links a {
+  color: #ff6b6b;
+}
+
+.footer-content h3 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
