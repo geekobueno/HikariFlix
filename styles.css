@@ -37,7 +37,7 @@ header.hero::after {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(211, 211, 211, 0.5); /* Light gray filter */
+  background-color: rgba(204, 201, 202, 0.8); /* Light gray filter */
   z-index: 1; /* Ensure the overlay is above the background */
 }
 
