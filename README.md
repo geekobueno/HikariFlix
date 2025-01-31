@@ -1,17 +1,37 @@
-# HikariFlix
-A free streaming app for anime and hentai (Currently in developpement)
+# HikariFlix 🎥✨  
+*A free and open-source anime streaming app in development!*  
 
-This project is for me to dabble with mobile and desktop developpement 
+## 🚀 About the Project  
+HikariFlix is a streaming application designed for anime enthusiasts, inspired by projects like **Aniyomi** and **Mihon**. The goal is to provide a **seamless, fast, and user-friendly** experience across mobile and desktop platforms, allowing users to **stream and download anime** efficiently.  
 
-Inspired by aniyomi and mihon , I am building an anime streaming app for android  with the ability to download the anime
+## 🎯 Features (Planned & In Progress)  
+- **📱 Mobile Frontend (React Native + Expo Go)** – A smooth and intuitive Android app.  
+- **🖥 Desktop Version (Electron.js)** – Future implementation for cross-platform support.  
+- **⚙ Backend (Node.js, Express.js)** – Handles content processing, user authentication, and API interactions.  
+- **📡 Streaming & Downloading** – Stream anime directly or download for offline viewing.  
+- **🔍 Search & Filters** – Easily find your favorite anime with advanced search and categorization.  
 
-You can download the app here : https://geekobueno.github.io/HikariFlix/
+## 🛠 Tech Stack  
+- **Frontend:** React Native, Expo Go  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Planned)  
+- **Future:** Electron.js (for desktop version)  
 
-TODO:
+## 📌 Project Status  
+- ✅ **Mobile Frontend:** Actively in development  
+- ✅ **Backend:** Actively in development  
+- ⏳ **Desktop Version:** Planned for future implementation  
 
+## 📥 Download & Contribute  
+The project is still in early development. Stay tuned for updates!  
+[HikariFlix Official Page](https://geekobueno.github.io/HikariFlix/)  
 
--Node js backend (in work) : https://github.com/geekobueno/TachiAnime-Backend
+## 🤝 Contributing  
+Feel free to contribute! Fork the repo, make a pull request, or suggest features via issues.  
 
--Mobile frontend with Expo go and react native  (in work) : https://github.com/geekobueno/TachiAnime-Mobile-Frontend
+## 📧 Contact  
+For any inquiries or contributions, reach out via:  
+- **GitHub:** [geekobueno](https://github.com/geekobueno)  
+- **Email:** [martinsimtaya@gmail.com](mailto:martinsimtaya@gmail.com)  
 
--desktop frontend with electron js (to be done)
+🚀 *Join us in building the next-generation anime streaming experience!*  
