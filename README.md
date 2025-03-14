@@ -20,7 +20,11 @@ HikariFlix is a streaming application designed for anime enthusiasts, inspired b
 ## 📌 Project Status  
 - ✅ **Mobile Frontend:** Actively in development  
 - ✅ **Backend:** Actively in development  
-- ⏳ **Desktop Version:** Planned for future implementation  
+- ⏳ **Desktop Version:** Planned for future implementation
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=geekobueno/HikariFlix.git&type=Date)](https://www.star-history.com/#geekobueno/HikariFlix.git&Date)
 
 ## 📥 Download & Contribute  
 The project is still in early development. Stay tuned for updates!  
