@@ -15,7 +15,12 @@ HikariFlix is a streaming application designed for anime enthusiasts, inspired b
 - **Frontend:** React Native, Expo Go  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Planned)  
-- **Future:** Electron.js (for desktop version)  
+- **Future:** Electron.js (for desktop version)
+
+## Frontend [Here](https://github.com/geekobueno/HikariFlix-Mobile-Frontend)   
+
+## Backend [Here](https://github.com/geekobueno/HikariFkix-Backend)   
+
 
 ## 📌 Project Status  
 - ✅ **Mobile Frontend:** Actively in development  
